@@ -16,3 +16,9 @@ num3.map((numero,key)=>{
     numero.forEach
     }
 )
+
+liElementArray.map((item,key)=>{
+    if(item.textContent == "Item-47")
+        console.log(`${key+1} - ${item.textContent = "LOCALIZADO"}`)
+    }
+)
