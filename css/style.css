@@ -24,10 +24,13 @@
 
 .container .l-e{
     flex-grow: 1;
-    background-color: chartreuse;
+    background-image: url("../IMG/banner-lateral-1.png");
+    background-size: cover;
 }
 
 .container .l-d{
     flex-grow: 1;
-    background-color: deeppink;
+    background-image: url("../IMG/banner-lateral-2.png");
+    background-size: cover;
 }
+
