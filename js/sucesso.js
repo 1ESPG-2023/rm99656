@@ -14,3 +14,15 @@
     }else{
         window.location.href = "../login.html";
     }
+
+const paragrafo = document.getElementById("paragrafo")
+const paragrafo1 = document.getElementById("paragrafo1")
+const foto = document.getElementById("foto")
+
+const usuario = JSON.parse(localStorage.getItem("user-validado"))
+
+
+
+paragrafo.innerHTML = usuario.nomeCompleto
+paragrafo1.innerHTML = usuario.nomeUsuario
+foto.src = usuario.avatarUsuario

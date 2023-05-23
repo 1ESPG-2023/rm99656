@@ -2,10 +2,10 @@
 //GERANDO UMA LISTA DE USUÁRIOS
 let listaDeUsuarios = [
     {
-        nomeCompleto : "Penes",
+        nomeCompleto : "Jao",
         nomeUsuario : "99656",
         senhaUsuario: "123456",
-        avatarUsuario:"https://www2.fiap.com.br/FotosAlunos/A02ADF18E02E4CFFBA1DB7B235EAA910/99482.jpg"
+        avatarUsuario:"https://www2.fiap.com.br/FotosAlunos/A02ADF18E02E4CFFBA1DB7B235EAA910/99656.jpg"
     },
     {
         nomeCompleto : "Ana Paula",
